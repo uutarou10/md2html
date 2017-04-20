@@ -1,5 +1,5 @@
 // MarkDownファイルが入っているディレクトリを指定
-let src = "./src/"
+const src = "./src/"
 
 var gulp = require("gulp")
 var markdown = require("gulp-markdown")
